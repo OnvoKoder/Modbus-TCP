@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Daniil Mikhailov</Authors>
+    <Company>-</Company>
+    <Description>It's a library which release read/write to device by modbus tcp with 
+exist endians. Endians: 0123(HighLow), 2301(Half LowHigh), 3210(LowHigh) </Description>
+    <PackageIcon>logo.png</PackageIcon>
+    <PackageReleaseNotes>It's a library which release read/write to device by modbus tcp with 
+exist endians. Endians: 0123(HighLow), 2301(Half LowHigh), 3210(LowHigh) </PackageReleaseNotes>
+    <Title>ModbusTCP for aim</Title>
+    <Copyright>©Copyright 2023 All Rights Reserved</Copyright>
+    <PackageLicenseFile>mit.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="License\mit.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Readme\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Resources\logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

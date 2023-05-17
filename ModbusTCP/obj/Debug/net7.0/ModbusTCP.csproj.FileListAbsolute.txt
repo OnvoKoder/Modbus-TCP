@@ -1,0 +1,14 @@
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\bin\Debug\net7.0\ModbusTCP.deps.json
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\bin\Debug\net7.0\ModbusTCP.dll
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\bin\Debug\net7.0\ModbusTCP.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.csproj.AssemblyReference.cache
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.Properties.Resources.resources
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.csproj.GenerateResource.cache
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.AssemblyInfoInputs.cache
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.AssemblyInfo.cs
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.csproj.CoreCompileInputs.cache
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.dll
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\refint\ModbusTCP.dll
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ModbusTCP.pdb
+C:\Users\zenit\OneDrive\Рабочий стол\ModbusTCP-main\ModbusTCP\obj\Debug\net7.0\ref\ModbusTCP.dll
