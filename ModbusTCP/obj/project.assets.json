@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zenit\\OneDrive\\Рабочий стол\\Modbus-TCP-main\\Modbus-TCP-main\\ModbusTCP\\ModbusTCP.csproj",
+      "projectUniqueName": "C:\\Users\\zenit\\Source\\Repos\\Modbus-TCP\\ModbusTCP\\ModbusTCP.csproj",
       "projectName": "ModbusTCP",
-      "projectPath": "C:\\Users\\zenit\\OneDrive\\Рабочий стол\\Modbus-TCP-main\\Modbus-TCP-main\\ModbusTCP\\ModbusTCP.csproj",
+      "projectPath": "C:\\Users\\zenit\\Source\\Repos\\Modbus-TCP\\ModbusTCP\\ModbusTCP.csproj",
       "packagesPath": "C:\\Users\\zenit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zenit\\OneDrive\\Рабочий стол\\Modbus-TCP-main\\Modbus-TCP-main\\ModbusTCP\\obj\\",
+      "outputPath": "C:\\Users\\zenit\\Source\\Repos\\Modbus-TCP\\ModbusTCP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
