@@ -21,8 +21,8 @@ internal class Program
 {
    private static void Main(string[] args)
     {
-        Modbus device_1 = new ModbusTCP("192.168.0.1"); //test device
-        Modbus device_2 = new ModbusTCP("192.168.0.2"); //test device
+        Modbus device_1 = new ModbusTcp("192.168.0.1"); //test device
+        Modbus device_2 = new ModbusTcp("192.168.0.2"); //test device
         ushort register_1 = 204;//test address
         ushort register_2 = 205; //test address
         for (;;)
